@@ -2,15 +2,15 @@
 
 #  I'm Miguel R. J. Martins  🤖 
 
-<a  href="https://www.instructables.com/member/MiguelR202/">
+<a  href="https://www.instructables.com/member/MiguelR202/" target="_blank">
 <img  align="left"  alt="Ajay's Instructables"  width="22px"  src="https://image.flaticon.com/icons/png/512/862/862511.png" />
 </a>
 
-<a  href="https://miguelribeiro.glitch.me">
+<a  href="https://miguelribeiro.glitch.me" target="_blank">
 <img  align="left"  alt="Ajay's Portifolio"  width="22px"  src="https://image.flaticon.com/icons/png/512/4507/4507734.png" />
 </a>
 
-<a  href="linkedin.com/in/miguel-r-j-martins-469a06180">
+<a  href="linkedin.com/in/miguel-r-j-martins-469a06180" target="_blank">
 <img  align="left"  alt="Ajay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
