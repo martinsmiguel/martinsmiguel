@@ -3,11 +3,11 @@
 #  I'm Miguel R. J. Martins  🤖 
 
 <a  href="https://www.instructables.com/member/MiguelR202/" target="_blank">
-<img  align="left"  alt="Ajay's Instructables"  width="22px"  src="https://image.flaticon.com/icons/png/512/862/862511.png" />
+<img  align="left"  alt="Ajay's Instructables"  width="22px"  src="https://cdn-icons-png.flaticon.com/512/862/862511.png" />
 </a>
 
 <a  href="https://martinsmiguel.super.site" target="_blank">
-<img  align="left"  alt="Ajay's Portifolio"  width="22px"  src="https://image.flaticon.com/icons/png/512/4507/4507734.png" />
+<img  align="left"  alt="Ajay's Portifolio"  width="22px"  src="https://cdn-icons-png.flaticon.com/512/943/943127.png" />
 </a>
 
 <a  href="linkedin.com/in/miguel-r-j-martins-469a06180" target="_blank">
