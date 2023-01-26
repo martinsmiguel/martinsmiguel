@@ -19,11 +19,11 @@
 
 <br /> 
 
-- 💻 Web and Mobile developer.
+- 💻 Mobile developer.
 
 - 🦾 Embedded system developer.
 	
-- ⚙️ Control and Automation Engineering Undergraduate Student.
+- ⚙️ Control and Automation Engineering.
 
 - 💡 Always working with some personal project and learning new things
 
