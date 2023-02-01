@@ -42,7 +42,8 @@
 ### 
 <a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></a>
 <a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/css3.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></a> 
+<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></a>
+<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/typescript.png"></a>
 <a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/officel/80/000000/php-logo.png"></a>
 ### 
 <a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/flutter.png"></a>
