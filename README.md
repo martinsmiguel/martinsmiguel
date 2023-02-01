@@ -71,7 +71,5 @@
 
 #
 
-### If you thought this is a nice guy! I could even buy him coffee. So buy me a coffee/tea and contact me! Let's share ideas. ☕ 
+### Contact me! Let's share ideas. ☕ 
 
-<a href="https://www.buymeacoffee.com/martinsmiguel" target="_blank"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
-<br /> 
