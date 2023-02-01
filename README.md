@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">  
+## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="23px">  
 
 #  I'm Miguel R. J. Martins  🤖 
 
@@ -10,12 +10,12 @@
 <img  align="left"  alt="Ajay's Portifolio"  width="22px"  src="https://cdn-icons-png.flaticon.com/512/943/943127.png" />
 </a>
 
-<a  href="linkedin.com/in/miguel-r-j-martins-469a06180" target="_blank">
+<a  href="https://www.linkedin.com/in/miguel-r-j-martins-469a06180/" target="_blank">
 <img  align="left"  alt="Ajay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
-<img  align="right"  alt="GIF"  src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img  align="right"  alt="GIF"  width="420px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <br /> 
 
@@ -31,7 +31,7 @@
 <br /> 
 
 ### 👁️ What's I'm focus on:
-#### Currently improving my skills in embedded systems and Flutter.
+#### Currently improving my skills and seeking to gain more experience and learning in areas of Mobile Development, Distributed Systems, Software Architecture and the like.
 <br /> 
 
 ## Languages and Tools:
