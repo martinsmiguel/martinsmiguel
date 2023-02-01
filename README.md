@@ -19,7 +19,7 @@
 
 <br /> 
 
-- 💻 Mobile developer.
+- 💻 Mobile developer • Front-End developer • Back-End developer.
 
 - 🦾 Embedded system developer.
 	
