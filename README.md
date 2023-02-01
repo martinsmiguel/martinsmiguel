@@ -60,7 +60,7 @@
 ###
 <a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/git.png"></a>
 <a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/office/80/000000/console.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://https://img.icons8.com/fluency/48/docker.png"></a>
+<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/fluency/48/docker.png"></a>
 ###
 <a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/arduino.png"></a>
 <a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/96/000000/autodesk-fusion-360.png"></a>
