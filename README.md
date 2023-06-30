@@ -1,75 +1,44 @@
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="23px">  
+<h1 align="center">Olá! Eu sou Miguel R. J. Martins <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="23px">  </h1>
+<h3 align="center">Desenvolvedor Mobile • Desenvolvedor Fullstack • Engenheiro de Controle e Automação</h3>
 
-#  I'm Miguel R. J. Martins  🤖 
+<p align="center">
+  <img  align="center"  alt="GIF"  width="420px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+</p>
 
-<a  href="https://www.instructables.com/member/MiguelR202/" target="_blank">
-<img  align="left"  alt="Ajay's Instructables"  width="22px"  src="https://cdn-icons-png.flaticon.com/512/862/862511.png" />
-</a>
+<p align="center"> ⚡ Foco Atual: Desenvolvimento Mobile, Arquitetura de Software e Sistemas Embarcados</p>
 
-<a  href="https://martinsmiguel.super.site" target="_blank">
-<img  align="left"  alt="Ajay's Portifolio"  width="22px"  src="https://cdn-icons-png.flaticon.com/512/943/943127.png" />
-</a>
+<p align="center">📫 Entre em contato: miguelrjmartins9@gmail.com</p>
 
-<a  href="https://www.linkedin.com/in/miguel-r-j-martins-469a06180/" target="_blank">
-<img  align="left"  alt="Ajay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h3 align="center">Linguagens e Ferramentas:</h3>
+<p align="center">
+  <img height="32" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  <img height="32" src="https://img.icons8.com/officel/80/000000/php-logo.png" alt="PHP" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
+  <img height="32" src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="Laravel" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img height="32" src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" />
+  <img height="32" src="https://img.icons8.com/color/48/bitbucket.png" alt="Bitbucket" />
+</p>
 
-
-<img  align="right"  alt="GIF"  width="420px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-<br /> 
-
-- 💻 Mobile developer • Front-End developer • Back-End developer.
-
-- 🦾 Embedded system developer.
-	
-- ⚙️ Control and Automation Engineering.
-
-- 💡 Always working with some personal project and learning new things
-
-- 🌎 Looking for opportunities and great projects.
-<br /> 
-
-### 👁️ What's I'm focus on:
-#### Currently improving my skills and seeking to gain more experience and learning in areas of Mobile Development, Distributed Systems, Software Architecture and the like.
-<br /> 
-
-## Languages and Tools:
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/c-programming.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/python--v1.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/dart.png"></a> 
-### 
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/css3.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/typescript.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/officel/80/000000/php-logo.png"></a>
-### 
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/flutter.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/react-native.png"></a> 
-###
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/fluent/48/000000/laravel.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/mongodb.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/mysql-logo.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/postgreesql.png"></a> 
-###
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/nodejs.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/graphql.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/firebase.png"></a> 
-###
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/git.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/office/80/000000/console.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/fluency/48/docker.png"></a>
-###
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/arduino.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/96/000000/autodesk-fusion-360.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://img.icons8.com/color/48/000000/google-sketchup.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="28" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="32" src="https://cdn.sparkfun.com/assets/learn_tutorials/6/1/4/lt_logo.png"></a>
-<a  href="#" style="pointer-events: none;  cursor: default;"><img height="28" src="https://lib.usf.edu/dmc/wp-content/uploads/sites/3/2019/01/autodesk-eagle-logo.png"></a>
-
-#
-
-### Contact me! Let's share ideas. ☕ 
-
+<h3 align="center">Conecte-se comigo:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguel-r-j-martins-469a06180/" target="_blank">
+    <img height="32" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+</p>
