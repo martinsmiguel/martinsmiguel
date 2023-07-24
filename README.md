@@ -11,6 +11,10 @@
 
 <h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center">
+  <img height="32" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
+  <img height="32" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
+  </br>
   <img height="32" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   <img height="32" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img height="32" src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
@@ -20,8 +24,7 @@
   <img height="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
   <img height="32" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
   <img height="32" src="https://img.icons8.com/officel/80/000000/php-logo.png" alt="PHP" />
-  <img height="32" src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
-  <img height="32" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
+  </br>
   <img height="32" src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="Laravel" />
   <img height="32" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img height="32" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
@@ -31,9 +34,6 @@
   <img height="32" src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
   <img height="32" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
   <img height="32" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" />
-  <img height="32" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img height="32" src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" />
-  <img height="32" src="https://img.icons8.com/color/48/bitbucket.png" alt="Bitbucket" />
 </p>
 
 <h3 align="center">Conecte-se comigo:</h3>
